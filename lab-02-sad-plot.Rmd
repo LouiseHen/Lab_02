@@ -54,7 +54,7 @@ View(staff_long)
 *Remove this text and add your answer here.*
 
 ```{r staff-long-inspect}
-# remove this comment and add your code here
+view(staff_long)
 ```
 
 
